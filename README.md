@@ -5,18 +5,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-welcome-1F6FEB?style=for-the-badge" alt="Profile views badge" />
-  <img src="https://img.shields.io/badge/WAKATIME-building%20daily-0284C7?style=for-the-badge" alt="Wakatime badge" />
   <a href="mailto:contact@aligilani.com"><img src="https://img.shields.io/badge/EMAIL-contact%40aligilani.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ali Gilani" /></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com"><img src="https://img.shields.io/badge/X-follow-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://aligilani.com"><img src="https://img.shields.io/badge/Website-aligilani.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Ali Gilani" /></a>
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful divider line" />
 </p>
 
-## A Full Stack Engineer
+## About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful divider line" />
+
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="220" alt="Animated character" />
 
 - 🌱 I am currently learning **DevOps**.
@@ -30,3 +29,23 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,docker,postgres,mongodb,git,github,linux,vscode&theme=dark" alt="Tech stack icons" />
 </p>
+
+## What I Work On
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful divider line" />
+
+- End-to-end web applications and platform features
+- Applied machine learning solutions and data workflows
+- API design, integrations, and backend optimization
+
+## Current Focus
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful divider line" />
+
+- Building scalable intelligent systems
+- Improving MLOps and deployment workflows
+- Writing clean, maintainable code with strong DX
+
+## Connect
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful divider line" />
+
+- Website: [aligilani.com](https://aligilani.com)
+- Email: [contact@aligilani.com](mailto:contact@aligilani.com)
