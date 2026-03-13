@@ -6,6 +6,11 @@
 
 <h1 align="center">Hi, I'm Ali Gilani</h1>
 <p align="center"><b>Software Engineer | Machine Learning | Data</b></p>
+<a href="https://aligilani.com/"><img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="250" alt="Dancing character" /></a>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful divider line" />
+</p>
 
 <p align="center">
   <a href="mailto:contact@aligilani.com"><img src="https://img.shields.io/badge/Email-contact%40aligilani.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ali Gilani" /></a>
