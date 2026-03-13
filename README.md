@@ -17,23 +17,12 @@
 </p>
 
 ## A Full Stack Engineer
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful divider line" />
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="220" alt="Animated character" />
 
-<table>
-  <tr>
-    <td width="68%" valign="top">
-      <ul>
-        <li>🌱 I am currently learning <b>DevOps</b>.</li>
-        <li>💼 My projects are available at <a href="https://aligilani.com">aligilani.com</a>.</li>
-        <li>📝 I share technical notes and write-ups on my website.</li>
-        <li>📫 Reach me at <a href="mailto:contact@aligilani.com">contact@aligilani.com</a>.</li>
-      </ul>
-    </td>
-    <td width="32%" align="center" valign="top">
-      <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="220" alt="Animated character" />
-    </td>
-  </tr>
-</table>
+- 🌱 I am currently learning **DevOps**.
+- 💼 My projects are available at [aligilani.com](https://aligilani.com).
+- 📝 I share technical notes and write-ups on my website.
+- 📫 Reach me at [contact@aligilani.com](mailto:contact@aligilani.com).
 
 ## Things I Code With
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful divider line" />
