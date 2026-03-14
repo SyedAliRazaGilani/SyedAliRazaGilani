@@ -23,8 +23,8 @@
 - 📝 I share technical notes and write-ups on my website.
 - 📫 Reach me at [contact@aligilani.com](mailto:contact@aligilani.com).
 
-<h3>Things I Code With</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful divider line" />
+<br/>
+<p><b>Things I Code With</b><br/><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful divider line" /></p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,docker,postgres,mongodb,git,github,linux,vscode&theme=dark" alt="Tech stack icons" />
