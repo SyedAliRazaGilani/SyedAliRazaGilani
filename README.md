@@ -9,9 +9,6 @@
   <a href="https://aligilani.com"><img src="https://img.shields.io/badge/Website-aligilani.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Ali Gilani" /></a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful divider line" />
-</p>
 
 <h3>About Me</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful divider line" />
