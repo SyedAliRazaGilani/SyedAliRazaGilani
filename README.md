@@ -9,7 +9,7 @@
   <a href="https://aligilani.com"><img src="https://img.shields.io/badge/Website-aligilani.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Ali Gilani" /></a>
 </p>
 
-<h3>🚀 Zanjeel Tariq Sahi</h3>
+<h3>🚀 Ali Gilani </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful divider line" />
 
 👋 Hey there! I build things that **stand out** and **make a difference**.
@@ -139,7 +139,7 @@ If it's not making lives better, why even build it?
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful divider line" />
 
 - 💼 LinkedIn: [linkedin.com/in/sarg9](https://www.linkedin.com/in/sarg9)
-- 📧 Gmail: [zanjeel123@gmail.com](mailto:zanjeel123@gmail.com)
+- 📧 Gmail: [contact@aligilani.com](mailto:contact@aligilani.com)
 
 <br/>
 
